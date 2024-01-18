@@ -5,25 +5,14 @@ Oakridge Codefest '24
 Team: Veekshith, Pranav, Jimit, Tanisha, Sanjana
 
 # Active Groups
-Dataset group: Pranav,
-               Veekshith.
-               
-Ui group     : Jimit.
-
-Ppt group    : Sanjana,
+ppt group    : Sanjana,
                Tanisha.
-
-Solution_brief 
-group        : Veekshith.
-
-Ai group     : Veekshith,
-               Pranav.
 
 # Logs
 - Topic and idea finalised (1/1) {10-1-24} 
-- v0.0.1 (0/2) {10-1-24}
+- v0.0.1 (1/2) {10-1-24}
     - Presentation [Ppt group] (0/1)
-    - Application [Ui group, Dataset group, Ai group] (0/3)
+    - Application [Ui group, Dataset group, Ai group] (3/3)
 
 # Notes
 
